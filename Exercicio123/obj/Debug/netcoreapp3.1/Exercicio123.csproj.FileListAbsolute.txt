@@ -1,0 +1,13 @@
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.exe
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.deps.json
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.runtimeconfig.json
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.runtimeconfig.dev.json
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.dll
+D:\P00\Exercicio123\Exercicio123\bin\Debug\netcoreapp3.1\Exercicio123.pdb
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.csprojAssemblyReference.cache
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.AssemblyInfoInputs.cache
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.AssemblyInfo.cs
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.csproj.CoreCompileInputs.cache
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.dll
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.pdb
+D:\P00\Exercicio123\Exercicio123\obj\Debug\netcoreapp3.1\Exercicio123.genruntimeconfig.cache
